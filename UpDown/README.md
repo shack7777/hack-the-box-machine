@@ -8,5 +8,5 @@
 
 2. start the python script.
 
-          $ python3 ambassador_exploit.py [target_ip] [netcat port to listen on]
+          $ python3 updown_exploit.py [target_ip] [netcat port to listen on]
 
